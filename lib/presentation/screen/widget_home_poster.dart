@@ -23,5 +23,3 @@ class WidgetHomePosters extends StatelessWidget {
 
   WidgetHomePosters(
       {required this.items, required this.label, required this.iconPath});
-
-  @
