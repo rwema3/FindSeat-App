@@ -82,4 +82,3 @@ class _WidgetItemPoster extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    _context = context;
