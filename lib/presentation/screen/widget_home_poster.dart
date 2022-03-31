@@ -124,4 +124,3 @@ class ItemPosterVM {
   late String title;
   late String subTitle;
   late String photo;
-  late Show show;
