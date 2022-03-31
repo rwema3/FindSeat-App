@@ -131,5 +131,4 @@ class ItemPosterVM {
   ItemPosterVM.fromShow(Show show) {
     this.show = show;
     title = show.name;
-    subTitle = show.tags.join(" - ");
    
