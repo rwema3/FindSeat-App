@@ -22,4 +22,4 @@ class WidgetHomePosters extends StatelessWidget {
   String iconPath;
 
   WidgetHomePosters(
-      {required this.items, required this.label, re
+      {required this.items, required this.label, r
