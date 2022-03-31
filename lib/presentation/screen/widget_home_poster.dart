@@ -51,3 +51,7 @@ class WidgetHomePosters extends StatelessWidget {
               )
             ],
           ),
+          WidgetSpacer(height: 14),
+          _buildListPoster(),
+        ],
+      ),
