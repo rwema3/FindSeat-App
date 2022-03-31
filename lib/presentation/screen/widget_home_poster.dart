@@ -85,5 +85,3 @@ class _WidgetItemPoster extends StatelessWidget {
     _context = context;
     return GestureDetector(
       onTap: () {
-        openShowDetails(show: item.show);
-      },
