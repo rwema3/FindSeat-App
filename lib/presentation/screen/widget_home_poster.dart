@@ -134,3 +134,4 @@ class ItemPosterVM {
     subTitle = show.tags.join(" - ");
     photo = show.thumb;
   }
+}
