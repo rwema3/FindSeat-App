@@ -115,8 +115,8 @@ Plugin | Usage
 [test](https://pub.dev/packages/test) | Try to use unit testing, most of the cases come from Bloc
 [bloc_test](https://pub.dev/packages/bloc_test) | SAA
 
-## V. Design credit
-##### Author: [Dinu Dinesh](https://www.uplabs.com/getdineshonline)
+## V. Developer Credit
+##### Developer: [Bagirishya Rwema Dominique](https://www.github.com/rwema3)
 ##### Design link: [Movie & events ticket booking app](https://www.uplabs.com/posts/movie-events-ticket-booking-app)
 
 ## Development Environment
