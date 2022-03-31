@@ -45,4 +45,3 @@ class WidgetHomePosters extends StatelessWidget {
                     style: FONT_CONST.MEDIUM_BLACK2_14),
               ),
               Expanded(
-                child: Text('View all',
