@@ -46,3 +46,4 @@ class WidgetHomePosters extends StatelessWidget {
               ),
               Expanded(
                 child: Text('View all',
+                    style: FONT_CONST.MEDIUM_DEFAULT_10,
