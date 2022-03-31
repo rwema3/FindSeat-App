@@ -2,14 +2,6 @@
 
 ![Banner](https://raw.githubusercontent.com/KhoaSuperman/findseat/apply_bloc/sample_data/github_screenshots/YoutubeBanner_v2_medium.png)
 
-## I. Introduction
-I’m Android Developer and I’m working in a software company in Vietnam. I have experience in both kind project: outsourcing project and product project. I decided to study Flutter, because I believe it’s promised in future. As experienced developer, I care about clean architecture, testing, performance and maintainability that why I keep searching for an example of completed application. Unfortunately, community now full of project such as speedcode, UI challenges, … it’s just small pieces of real world application. In fact, most of the project doesn’t have fancy UI like that.
-That why I build this project by myself and now share it to the community, I hope you can get something from it then apply to your work.
-
-The first version of project (v1.0) is just about UI + simple logic. In this version v2.0, I applied BloC pattern by using Flutter Bloc to project and also have unit tests for it. I also built simple Mock API for the app, it just static json file uploaded to a my private hosting. I hope I have time to do cache local data by SQLite but I have not, so hope next version will be soon available.
-
-[Check Video Demo](https://youtu.be/cxUiyI4h2Ug)
-
 ## II. Showcase
 #### 2.1. Home
 In Home screen, it just simply load then show data to UI. What you can try
