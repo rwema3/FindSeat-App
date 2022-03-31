@@ -97,3 +97,4 @@ class _WidgetItemPoster extends StatelessWidget {
               borderRadius: BorderRadius.circular(8),
               child: ShimmerImage(
                 item.photo,
+                width: 93,
