@@ -8,4 +8,4 @@ import 'package:flutter/material.dart';
 
 class WidgetHomePosters extends StatelessWidget {
   List<ItemPosterVM> items = [
-    ItemPosterVM('images/events/912b
+    ItemPosterVM('images/events/912
