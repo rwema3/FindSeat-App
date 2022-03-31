@@ -132,5 +132,4 @@ class ItemPosterVM {
     this.show = show;
     title = show.name;
     subTitle = show.tags.join(" - ");
-    photo = show.thumb;
-  }
+   
