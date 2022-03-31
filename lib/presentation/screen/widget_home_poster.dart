@@ -112,4 +112,3 @@ class _WidgetItemPoster extends StatelessWidget {
           ],
         ),
       ),
-    );
