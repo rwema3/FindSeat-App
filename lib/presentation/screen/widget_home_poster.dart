@@ -18,4 +18,3 @@ class WidgetHomePosters extends StatelessWidget {
         'Happy Halloween 2K19', 'Music show'),
   ];
 
-  
