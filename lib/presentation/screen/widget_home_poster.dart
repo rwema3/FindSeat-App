@@ -104,4 +104,3 @@ class _WidgetItemPoster extends StatelessWidget {
             ),
             WidgetSpacer(height: 4),
             Text(item.title,
-                style: FONT_CONST.REGULAR_BLACK2_12,
