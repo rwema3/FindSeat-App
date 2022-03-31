@@ -77,4 +77,3 @@ class _WidgetItemPoster extends StatelessWidget {
   ItemPosterVM item;
 
   _WidgetItemPoster(this.item);
-
