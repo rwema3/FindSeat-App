@@ -99,3 +99,4 @@ class _WidgetItemPoster extends StatelessWidget {
                 item.photo,
                 width: 93,
                 height: 124,
+                fit: BoxFit.cover,
