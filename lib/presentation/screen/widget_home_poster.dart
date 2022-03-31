@@ -29,3 +29,4 @@ class WidgetHomePosters extends StatelessWidget {
     return Padding(
       padding: const EdgeInsets.symmetric(horizontal: 20),
       child: Column(
+  
