@@ -106,3 +106,4 @@ class _WidgetItemPoster extends StatelessWidget {
             Text(item.title,
                 style: FONT_CONST.REGULAR_BLACK2_12,
                 maxLines: 2,
+                overflow: TextOverflow.ellipsis),
