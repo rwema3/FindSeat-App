@@ -87,3 +87,4 @@ class _WidgetItemPoster extends StatelessWidget {
       onTap: () {
         openShowDetails(show: item.show);
       },
+      child: Container(
