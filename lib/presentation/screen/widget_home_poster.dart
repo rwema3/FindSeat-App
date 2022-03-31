@@ -8,3 +8,4 @@ import 'package:flutter/material.dart';
 
 class WidgetHomePosters extends StatelessWidget {
   List<ItemPosterVM> items = [
+    
