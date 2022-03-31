@@ -193,7 +193,5 @@ Before run project, execute commands:
 - `flutter pub run build_runner build` or `flutter pub run build_runner build --delete-conflicting-outputs`
 - `flutter run` (if needed)
 
-## Support
-- If you wanna get updates in next version, please give me a ⭐ to the repo 👍
-- If you love my work and want to support, [buy me a coffee here](https://www.paypal.me/khoahoang1012/1). Thank you so much 👍
+## God Bless You
 
