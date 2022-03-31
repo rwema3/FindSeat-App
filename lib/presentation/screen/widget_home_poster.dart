@@ -27,4 +27,4 @@ class WidgetHomePosters extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Padding(
-      padding: const Edg
+      padding: const Edge
