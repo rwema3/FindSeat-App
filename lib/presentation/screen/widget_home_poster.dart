@@ -37,3 +37,5 @@ class WidgetHomePosters extends StatelessWidget {
                 path: iconPath,
                 width: 20,
                 height: 20,
+                color: COLOR_CONST.BLACK2,
+              ),
