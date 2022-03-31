@@ -9,4 +9,4 @@ import 'package:flutter/material.dart';
 class WidgetHomePosters extends StatelessWidget {
   List<ItemPosterVM> items = [
     ItemPosterVM('images/events/912b4ea18698ad3b3519003c1c65c97e@2x.png',
-        'Happy Halloween 2K19', 'Mus
+        'Happy Halloween 2K19', 'Mu
