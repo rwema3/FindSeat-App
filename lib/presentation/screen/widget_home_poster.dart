@@ -88,4 +88,3 @@ class _WidgetItemPoster extends StatelessWidget {
         openShowDetails(show: item.show);
       },
       child: Container(
-        width: 93,
