@@ -129,4 +129,5 @@ class ItemPosterVM {
   ItemPosterVM(this.photo, this.title, this.subTitle);
 
   ItemPosterVM.fromShow(Show show) {
+    this.show = show;
    
