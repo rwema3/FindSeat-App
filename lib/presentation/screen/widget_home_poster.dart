@@ -93,3 +93,4 @@ class _WidgetItemPoster extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.start,
           mainAxisSize: MainAxisSize.min,
           children: <Widget>[
+            ClipRRect(
