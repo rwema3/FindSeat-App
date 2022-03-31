@@ -19,4 +19,3 @@ class WidgetHomePosters extends StatelessWidget {
   ];
 
   String label;
-  
