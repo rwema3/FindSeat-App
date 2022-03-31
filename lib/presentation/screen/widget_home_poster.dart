@@ -125,3 +125,7 @@ class ItemPosterVM {
   late String subTitle;
   late String photo;
   late Show show;
+
+  ItemPosterVM(this.photo, this.title, this.subTitle);
+
+  I
