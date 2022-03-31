@@ -65,3 +65,6 @@ class WidgetHomePosters extends StatelessWidget {
 
         return _WidgetItemPoster(item);
       },
+      separatorBuilder: (context, index) {
+        return WidgetSpacer(width: 14);
+      },
