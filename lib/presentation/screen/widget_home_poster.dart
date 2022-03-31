@@ -40,3 +40,4 @@ class WidgetHomePosters extends StatelessWidget {
                 color: COLOR_CONST.BLACK2,
               ),
               WidgetSpacer(width: 6),
+              Expanded(
