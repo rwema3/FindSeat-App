@@ -117,7 +117,7 @@ Plugin | Usage
 
 ## V. Developer Credit
 ##### Developer: [Bagirishya Rwema Dominique](https://www.github.com/rwema3)
-##### Twitter: [Movie & events ticket booking app](https://www.uplabs.com/posts/movie-events-ticket-booking-app)
+##### Twitter: [R_w_e_m_a](https://www.twitter.com/R_w_e_m_a)
 
 ## Development Environment
 `flutter doctor -v`
