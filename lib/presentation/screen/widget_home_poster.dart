@@ -25,4 +25,4 @@ class WidgetHomePosters extends StatelessWidget {
       {required this.items, required this.label, required this.iconPath});
 
   @override
-  Widget build(BuildContext conte
+  Widget build(BuildContext context
