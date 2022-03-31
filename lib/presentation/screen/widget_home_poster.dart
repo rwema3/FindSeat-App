@@ -15,4 +15,4 @@ class WidgetHomePosters extends StatelessWidget {
     ItemPosterVM('images/events/8cb99f7a9423e9a20e26dd5468668517@2x.png',
         'Summer sounds festival', 'Comedy show'),
     ItemPosterVM('images/events/e215ef68a07a9baa50e04b05a79970ae@2x.png',
-        'Happy Halloween 2K19', 'Music sh
+        'Happy Halloween 2K19', 'Music sho
