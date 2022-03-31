@@ -115,3 +115,4 @@ class _WidgetItemPoster extends StatelessWidget {
     );
   }
 
+  void openShowDetails({required Show show}) {
