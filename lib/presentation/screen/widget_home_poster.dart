@@ -43,4 +43,3 @@ class WidgetHomePosters extends StatelessWidget {
               Expanded(
                 child: Text(label.toUpperCase(),
                     style: FONT_CONST.MEDIUM_BLACK2_14),
-              ),
