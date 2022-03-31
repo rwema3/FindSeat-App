@@ -123,4 +123,3 @@ class _WidgetItemPoster extends StatelessWidget {
 class ItemPosterVM {
   late String title;
   late String subTitle;
-  late String photo;
