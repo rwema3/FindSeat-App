@@ -90,4 +90,3 @@ class _WidgetItemPoster extends StatelessWidget {
       child: Container(
         width: 93,
         child: Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
