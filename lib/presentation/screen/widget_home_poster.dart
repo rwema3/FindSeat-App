@@ -19,4 +19,4 @@ class WidgetHomePosters extends StatelessWidget {
   ];
 
   String label;
-  String ico
+  String ic
