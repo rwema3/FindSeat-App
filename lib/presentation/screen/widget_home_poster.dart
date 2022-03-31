@@ -100,5 +100,3 @@ class _WidgetItemPoster extends StatelessWidget {
                 width: 93,
                 height: 124,
                 fit: BoxFit.cover,
-              ),
-            ),
