@@ -31,3 +31,4 @@ class WidgetHomePosters extends StatelessWidget {
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: <Widget>[
+          Row(
