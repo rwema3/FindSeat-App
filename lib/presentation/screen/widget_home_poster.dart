@@ -59,3 +59,4 @@ class WidgetHomePosters extends StatelessWidget {
   }
 
   _buildListPoster() {
+    return WrapContentHozListView(
