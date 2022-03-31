@@ -7,4 +7,4 @@ import 'package:find_seat/utils/my_const/my_const.dart';
 import 'package:flutter/material.dart';
 
 class WidgetHomePosters extends StatelessWidget {
-  List<ItemPosterVM> items =
+  List<ItemPosterVM> items = [
