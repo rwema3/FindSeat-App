@@ -14,4 +14,4 @@ class WidgetHomePosters extends StatelessWidget {
         'Music DJ king monger Sertical Visa', 'Music show'),
     ItemPosterVM('images/events/8cb99f7a9423e9a20e26dd5468668517@2x.png',
         'Summer sounds festival', 'Comedy show'),
-    ItemPosterVM('images/events/e215ef68a07a9
+    ItemPosterVM('images/events/e215ef68a07a9b
