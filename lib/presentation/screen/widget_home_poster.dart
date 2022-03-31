@@ -102,4 +102,3 @@ class _WidgetItemPoster extends StatelessWidget {
                 fit: BoxFit.cover,
               ),
             ),
-            WidgetSpacer(height: 4),
