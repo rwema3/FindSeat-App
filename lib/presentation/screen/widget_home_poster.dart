@@ -58,3 +58,4 @@ class WidgetHomePosters extends StatelessWidget {
     );
   }
 
+  _buildListPoster() {
