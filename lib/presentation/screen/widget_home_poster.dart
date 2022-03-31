@@ -34,4 +34,3 @@ class WidgetHomePosters extends StatelessWidget {
           Row(
             children: <Widget>[
               MySvgImage(
-                path: iconPath,
