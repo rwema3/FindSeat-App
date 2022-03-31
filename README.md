@@ -74,10 +74,7 @@ Click on item time slot, app will open Book Seat Type screen.
 ###### 2.7.3. Screen: Make payment 3
 ![MakePayment_3](https://raw.githubusercontent.com/KhoaSuperman/findseat/apply_bloc/sample_data/github_screenshots/MakePayment_3.png)
 - After Stripe verified the payment information, app will show your booking information.
-#### 2.8. Login
-![Login](https://raw.githubusercontent.com/KhoaSuperman/findseat/apply_bloc/sample_data/github_screenshots/Login_1.png)
-- Basically app provide login by user’s email and password. Login by Google and Facebook will be available soon.
-- Test account: khoaha+dev2@mailinator.com / 123456
+
 #### 2.9. Register
 ![Register](https://raw.githubusercontent.com/KhoaSuperman/findseat/apply_bloc/sample_data/github_screenshots/Register_1.png)
 - I did validation in this form using Bloc pattern, you can look at this to study how to do form validation in Bloc.
