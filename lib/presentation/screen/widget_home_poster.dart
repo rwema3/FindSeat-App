@@ -111,3 +111,5 @@ class _WidgetItemPoster extends StatelessWidget {
             Text(item.subTitle, style: FONT_CONST.REGULAR_GRAY6_10),
           ],
         ),
+      ),
+    );
