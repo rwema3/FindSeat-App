@@ -79,3 +79,5 @@ class _WidgetItemPoster extends StatelessWidget {
   _WidgetItemPoster(this.item);
 
   late BuildContext _context;
+
+  @override
