@@ -62,6 +62,3 @@ class WidgetHomePosters extends StatelessWidget {
     return WrapContentHozListView(
       itemBuilder: (context, index) {
         var item = items[index];
-
-        return _WidgetItemPoster(item);
-      },
