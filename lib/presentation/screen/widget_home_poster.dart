@@ -80,4 +80,3 @@ class _WidgetItemPoster extends StatelessWidget {
 
   late BuildContext _context;
 
-  @override
