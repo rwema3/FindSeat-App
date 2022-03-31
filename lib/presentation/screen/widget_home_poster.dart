@@ -36,3 +36,4 @@ class WidgetHomePosters extends StatelessWidget {
               MySvgImage(
                 path: iconPath,
                 width: 20,
+                height: 20,
