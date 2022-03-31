@@ -27,4 +27,4 @@ class WidgetHomePosters extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Padding(
-      padding: const EdgeInsets.symmetric(hor
+      padding: const EdgeInsets.symmetric(hori
