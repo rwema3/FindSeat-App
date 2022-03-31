@@ -94,4 +94,3 @@ class _WidgetItemPoster extends StatelessWidget {
           mainAxisSize: MainAxisSize.min,
           children: <Widget>[
             ClipRRect(
-              borderRadius: BorderRadius.circular(8),
