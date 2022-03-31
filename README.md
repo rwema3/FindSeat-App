@@ -65,7 +65,7 @@ Click on item time slot, app will open Book Seat Type screen.
 ![MakePayment_1](https://raw.githubusercontent.com/KhoaSuperman/findseat/apply_bloc/sample_data/github_screenshots/MakePayment_1.png)
 - App integrated with Stripe SDK, currently for testing when you click on any method Debit/UDI/Net banking, app only show option pay by input card to the form.
 
-###### 2.7.2. Screen: Make payment 2
+
 ![MakePayment_2](https://raw.githubusercontent.com/KhoaSuperman/findseat/apply_bloc/sample_data/github_screenshots/MakePayment_2.png)
 - For testing, please use following information:
   - Card number: 4242 4242 4242 4242
