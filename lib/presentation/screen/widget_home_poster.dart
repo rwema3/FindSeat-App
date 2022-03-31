@@ -98,4 +98,3 @@ class _WidgetItemPoster extends StatelessWidget {
               child: ShimmerImage(
                 item.photo,
                 width: 93,
-                height: 124,
