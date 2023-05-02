@@ -11,4 +11,8 @@ import 'package:find_seat/presentation/screen/show_info/barrel_show_info.dart';
 import 'package:flutter/material.dart';
 
 import 'screen/home/sc_home.dart';
-i
+import 'screen/splash/sc_splash.dart';
+
+class AppRouter {
+  static const String HOME = '/';
+ 
