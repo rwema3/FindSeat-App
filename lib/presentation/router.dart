@@ -43,3 +43,5 @@ class AppRouter {
         var show = settings.arguments as Show;
         return MaterialPageRoute(
             builder: (_) => BookTimeSlotScreen(show: show));
+      case BOOK_SEAT_TYPE:
+        return MaterialPageRoute(
