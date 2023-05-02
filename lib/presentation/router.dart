@@ -52,3 +52,5 @@ class AppRouter {
         return MaterialPageRoute(
             builder: (_) => BookSeatSlotScreen(args: args));
       case LIST_ALL_CINE:
+        return MaterialPageRoute(builder: (_) => ListAllCineScreen());
+      case REGISTER:
