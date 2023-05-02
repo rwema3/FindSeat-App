@@ -45,3 +45,5 @@ class AppRouter {
             builder: (_) => BookTimeSlotScreen(show: show));
       case BOOK_SEAT_TYPE:
         return MaterialPageRoute(
+          builder: (_) => BookSeatTypeScreen(),
+        );
