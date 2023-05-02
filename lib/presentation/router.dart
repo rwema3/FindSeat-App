@@ -58,3 +58,12 @@ class AppRouter {
       case LIST_MY_TICKET:
         return MaterialPageRoute(builder: (_) => ListMyTicketScreen());
       default:
+        return MaterialPageRoute(
+            builder: (_) => Scaffold(
+                  body: Center(
+                    child: Text('No route defined for ${settings.name}'),
+                  ),
+                ));
+    }
+  }
+}
