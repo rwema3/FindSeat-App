@@ -23,4 +23,8 @@ class AppRouter {
   static const String BOOK_SEAT_TYPE = '/book_seat_type';
   static const String BOOK_SEAT_SLOT = '/book_seat_slot';
   static const String LIST_ALL_CINE = '/list_all_cine';
- 
+  static const String REGISTER = '/register';
+  static const String LIST_MY_TICKET = '/list_my_ticket';
+
+  static Route<dynamic> generateRoute(RouteSettings settings) {
+s
