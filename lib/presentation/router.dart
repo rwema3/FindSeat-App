@@ -19,4 +19,8 @@ class AppRouter {
   static const String LOGIN = '/login';
   static const String ALL_SHOWS = '/all_shows';
   static const String SHOW_INFO = '/show_info';
+  static const String BOOK_TIME_SLOT = '/book_time_slot';
+  static const String BOOK_SEAT_TYPE = '/book_seat_type';
+  static const String BOOK_SEAT_SLOT = '/book_seat_slot';
+  static const String LIST_ALL_CINE = '/list_all_cine';
  
