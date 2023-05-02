@@ -47,3 +47,6 @@ class AppRouter {
         return MaterialPageRoute(
           builder: (_) => BookSeatTypeScreen(),
         );
+      case BOOK_SEAT_SLOT:
+        final args = settings.arguments as ScreenArguments;
+        return MaterialPageRoute(
