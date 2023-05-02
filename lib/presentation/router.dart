@@ -50,3 +50,5 @@ class AppRouter {
       case BOOK_SEAT_SLOT:
         final args = settings.arguments as ScreenArguments;
         return MaterialPageRoute(
+            builder: (_) => BookSeatSlotScreen(args: args));
+      case LIST_ALL_CINE:
