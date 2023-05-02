@@ -54,3 +54,5 @@ class AppRouter {
       case LIST_ALL_CINE:
         return MaterialPageRoute(builder: (_) => ListAllCineScreen());
       case REGISTER:
+        return MaterialPageRoute(builder: (_) => RegisterScreen());
+      case LIST_MY_TICKET:
