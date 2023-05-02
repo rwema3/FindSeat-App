@@ -38,3 +38,5 @@ class AppRouter {
         return MaterialPageRoute(builder: (_) => AllShowsScreen());
       case SHOW_INFO:
         var show = settings.arguments as Show;
+        return MaterialPageRoute(builder: (_) => ShowInfoScreen(show: show));
+      case BOOK_TIME_SLOT:
