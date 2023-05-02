@@ -1,6 +1,6 @@
 # A Completed Functional Flutter App - FindSeat (BLoC + Json API + Unit Test + Firebase Auth)
 
-![Banner](https://raw.githubusercontent.com/KhoaSuperman/findseat/apply_bloc/sample_data/github_screenshots/YoutubeBanner_v2_medium.png)
+![Banner](https://github.com/rwema3/FindSeat-App/blob/main/images/Findseat.png)
 
 ## II. Showcase
 #### 2.1. Home
