@@ -37,3 +37,4 @@ class AppRouter {
       case ALL_SHOWS:
         return MaterialPageRoute(builder: (_) => AllShowsScreen());
       case SHOW_INFO:
+        var show = settings.arguments as Show;
