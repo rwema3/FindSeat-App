@@ -35,3 +35,4 @@ class AppRouter {
       case LOGIN:
         return MaterialPageRoute(builder: (_) => LoginScreen());
       case ALL_SHOWS:
+        return MaterialPageRoute(builder: (_) => AllShowsScreen());
