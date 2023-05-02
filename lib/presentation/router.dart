@@ -15,4 +15,8 @@ import 'screen/splash/sc_splash.dart';
 
 class AppRouter {
   static const String HOME = '/';
+  static const String SPLASH = '/splash';
+  static const String LOGIN = '/login';
+  static const String ALL_SHOWS = '/all_shows';
+  static const String SHOW_INFO = '/show_info';
  
