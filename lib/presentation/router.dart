@@ -29,3 +29,9 @@ class AppRouter {
   static Route<dynamic> generateRoute(RouteSettings settings) {
     switch (settings.name) {
       case HOME:
+        return MaterialPageRoute(builder: (_) => HomeScreen());
+      case SPLASH:
+        return MaterialPageRoute(builder: (_) => SplashScreen());
+      case LOGIN:
+        return MaterialPageRoute(builder: (_) => LoginScreen());
+      case ALL_SHOWS:
