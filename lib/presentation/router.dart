@@ -27,4 +27,5 @@ class AppRouter {
   static const String LIST_MY_TICKET = '/list_my_ticket';
 
   static Route<dynamic> generateRoute(RouteSettings settings) {
-s
+    switch (settings.name) {
+      case HOME:
