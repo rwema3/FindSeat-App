@@ -56,3 +56,5 @@ class AppRouter {
       case REGISTER:
         return MaterialPageRoute(builder: (_) => RegisterScreen());
       case LIST_MY_TICKET:
+        return MaterialPageRoute(builder: (_) => ListMyTicketScreen());
+      default:
